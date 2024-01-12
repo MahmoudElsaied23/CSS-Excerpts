@@ -1689,6 +1689,7 @@ section {
 .temp h1 {
   font-size: 37px;
   border-radius: 5px 5px 0 0;
+  -webkit-background-clip: text;
   background-clip: text;
   color: transparent;
 }
