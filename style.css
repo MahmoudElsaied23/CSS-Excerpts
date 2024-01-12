@@ -1159,7 +1159,7 @@ section {
   border-radius: 2.5px;
   width: 5000px;
   max-width: 100%;
-  aspect-ratio: 3 / 1.1;
+  aspect-ratio: 3 / .9;
   object-fit: cover;
 }
 .email :is(.orange, .foot)::before {
